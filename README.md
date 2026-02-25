@@ -46,7 +46,7 @@ The script includes queries related to:
 
 ---
 
-## 📈 Sample Analysis Performed
+## 📈 Analysis Performed
 
 Some examples of insights generated:
 
